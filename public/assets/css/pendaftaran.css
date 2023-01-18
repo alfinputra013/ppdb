@@ -1,0 +1,58 @@
+/* pendaftaran */
+body{
+  font-family: 'Andika', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  background: -webkit-linear-gradient(left, #4649FF, #002E94);
+  margin-left: 50px;
+  margin-right: 30px;
+  border-radius: 25px;
+}
+.contact-form{
+  background: #fff;
+  margin-top: 10%;
+  margin-bottom: 5%;
+  width: 70%;
+}
+.contact-form .form-control{
+  border-radius:1rem;
+}
+
+.contact-form form{
+  padding: 14%;
+}
+.contact-form form .row{
+  margin-bottom: -7%;
+  
+}
+.contact-form h4{
+  margin-bottom: 8%;
+  margin-top: -10%;
+  text-align: center;
+  color: #000;
+}
+.contact-form h6{
+  margin-bottom: 8%;
+  margin-top: -10%;
+  text-align: center;
+  color: #737373;
+}
+.contact-form .btnContact {
+  width: 100%;
+  border: none;
+  border-radius: 1rem;
+  padding: 1.5%;
+  background: #000;
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+}
+.btnContactSubmit
+{
+  width: 50%;
+  border-radius: 1rem;
+  padding: 1.5%;
+  color: #fff;
+  background-color: #0062cc;
+  border: none;
+  cursor: pointer;
+}
